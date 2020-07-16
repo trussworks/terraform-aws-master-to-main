@@ -1,5 +1,7 @@
 Testing changes for branch name from `master` to `main`.
 
+Default Branch Name: `main`
+
 ## Usage
 
 ```hcl
