@@ -3,8 +3,10 @@ Testing changes for branch name from `master` to `main`.
 ## Usage
 
 ```hcl
-module "master_to_main" {
-  source = "trussworks/logs/master-to-main"
+module "master-to-main" {
+  source  = "trussworks/master-to-main/aws"
+  version = "0.0.1"
+}
 ```
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
