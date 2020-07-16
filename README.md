@@ -1,6 +1,6 @@
 Testing changes for branch name from `master` to `main`.
 
-## Usage 
+## Usage
 
 ```hcl
 module "master_to_main" {
@@ -8,5 +8,24 @@ module "master_to_main" {
 ```
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## Requirements
+
+| Name | Version |
+|------|---------|
+| terraform | >= 0.12 |
+
+## Providers
+
+| Name | Version |
+|------|---------|
+| aws | n/a |
+
+## Inputs
+
+No input.
+
+## Outputs
+
+No output.
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
